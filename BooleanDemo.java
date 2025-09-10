@@ -11,6 +11,7 @@ public class BooleanDemo {
 		Boolean b4 = new Boolean(true);
 		
 		System.out.println(Boolean.valueOf(b1));
+		System.out.println("This is a change.");
 	}
 
 }
