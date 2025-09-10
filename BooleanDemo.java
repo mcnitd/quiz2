@@ -9,6 +9,7 @@ public class BooleanDemo {
 		Boolean b2 = new Boolean(true);
 		
 		System.out.println("This is a change.");
+		System.out.println("More changes");
 	}
 
 }
