@@ -8,6 +8,9 @@ public class BooleanDemo {
 		Boolean b1 = new Boolean(true);
 		Boolean b2 = new Boolean(true);
 		
+		int test = 42;
+
+		System.out.println("Changes, changes, changes.")
 		System.out.println("This is a change.");
 	}
 
