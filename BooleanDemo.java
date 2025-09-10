@@ -12,6 +12,7 @@ public class BooleanDemo {
 
 		System.out.println("Changes, changes, changes.")
 		System.out.println("This is a change.");
+		System.out.println("More changes");
 	}
 
 }
